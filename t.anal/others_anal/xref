@@ -225,7 +225,7 @@ run_test
 
 NAME="strings xref issue"
 FILE=../../bins/elf/redpill
-BROKEN=1
+BROKEN=
 CMDS='
 e anal.strings=true
 aa
@@ -293,7 +293,7 @@ types=code.jmp,code.call,data.mem,data.string
 run_test
 
 NAME='reference PIC binary'
-BROKEN=1
+BROKEN=
 FILE=../../bins/elf/analysis/xrefpic
 ARGS=
 CMDS='
