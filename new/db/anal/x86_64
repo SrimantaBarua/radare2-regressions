@@ -2407,7 +2407,7 @@ refptr: 0
 size: 1
 sign: false
 type: upush
-cycles: 2
+cycles: 1
 esil: rbp,8,rsp,-,=[8],8,rsp,-=
 stack: inc
 family: cpu
