@@ -103,7 +103,7 @@ EXPECT='[
     "disasm": "push rbp",
     "bytes": "55",
     "family": "cpu",
-    "type": "upush",
+    "type": "rpush",
     "reloc": false,
     "type_num": 268435468,
     "type2_num": 0
@@ -135,7 +135,7 @@ EXPECT='[
     "disasm": "push r15",
     "bytes": "4157",
     "family": "cpu",
-    "type": "upush",
+    "type": "rpush",
     "reloc": false,
     "type_num": 268435468,
     "type2_num": 0
@@ -151,7 +151,7 @@ EXPECT='[
     "disasm": "push r14",
     "bytes": "4156",
     "family": "cpu",
-    "type": "upush",
+    "type": "rpush",
     "reloc": false,
     "type_num": 268435468,
     "type2_num": 0
@@ -183,7 +183,7 @@ EXPECT='[
     "disasm": "push rbp",
     "bytes": "55",
     "family": "cpu",
-    "type": "upush",
+    "type": "rpush",
     "reloc": false,
     "type_num": 268435468,
     "type2_num": 0
@@ -234,7 +234,7 @@ EXPECT='[
     "disasm": "push r15",
     "bytes": "4157",
     "family": "cpu",
-    "type": "upush",
+    "type": "rpush",
     "reloc": false,
     "type_num": 268435468,
     "type2_num": 0

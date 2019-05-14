@@ -2406,7 +2406,7 @@ bytes: 55
 refptr: 0
 size: 1
 sign: false
-type: upush
+type: rpush
 cycles: 1
 esil: rbp,8,rsp,-,=[8],8,rsp,-=
 stack: inc
